@@ -1,34 +1,96 @@
 
 decor.webp
-size: 1319,466
+size: 2023,1602
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-L_fog
+cloud-L
   rotate: false
-  xy: 1, 1
-  size: 518, 464
-  orig: 603, 552
-  offset: 30, 23
+  xy: 184, 1276
+  size: 495, 326
+  orig: 495, 326
+  offset: 0, 0
   index: -1
-R_fog
-  rotate: false
-  xy: 962, 98
-  size: 356, 367
-  orig: 540, 429
-  offset: 152, 42
-  index: -1
-bamboo-leaf2
+cloud-R
   rotate: true
-  xy: 962, 72
-  size: 24, 140
-  orig: 24, 140
+  xy: 1663, 1089
+  size: 513, 360
+  orig: 513, 360
   offset: 0, 0
   index: -1
-circlelight
-  rotate: false
-  xy: 521, 18
-  size: 439, 447
-  orig: 439, 447
+grass_par-1
+  rotate: true
+  xy: 70, 1589
+  size: 13, 66
+  orig: 13, 66
   offset: 0, 0
+  index: -1
+grass_par-2
+  rotate: true
+  xy: 0, 1590
+  size: 12, 40
+  orig: 12, 40
+  offset: 0, 0
+  index: -1
+grass_par-3
+  rotate: true
+  xy: 136, 1579
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+grass_par-4
+  rotate: true
+  xy: 40, 1590
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+mountain
+  rotate: false
+  xy: 0, 0
+  size: 1536, 769
+  orig: 1538, 771
+  offset: 1, 1
+  index: -1
+tree-L
+  rotate: true
+  xy: 679, 1272
+  size: 330, 492
+  orig: 330, 492
+  offset: 0, 0
+  index: -1
+tree-R
+  rotate: true
+  xy: 1171, 1272
+  size: 330, 492
+  orig: 330, 492
+  offset: 0, 0
+  index: -1
+tree-bg
+  rotate: false
+  xy: 0, 769
+  size: 1538, 503
+  orig: 1538, 504
+  offset: 0, 0
+  index: -1
+
+decor2.webp
+size: 1909,1536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-front
+  rotate: true
+  xy: 1024, 1
+  size: 1535, 885
+  orig: 1535, 887
+  offset: 0, 1
+  index: -1
+main-bg
+  rotate: true
+  xy: 0, 0
+  size: 1536, 1024
+  orig: 1538, 1026
+  offset: 1, 1
   index: -1

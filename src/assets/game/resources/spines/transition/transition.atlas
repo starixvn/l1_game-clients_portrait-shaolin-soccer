@@ -1,159 +1,55 @@
 
 transition.webp
-size: 1866,1808
+size: 1940,259
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-light
-  rotate: false
-  xy: 1, 1360
-  size: 660, 447
-  orig: 669, 454
-  offset: 4, 4
-  index: -1
-smoke-explode/smoke_00000
-  rotate: false
-  xy: 1265, 1357
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00001
-  rotate: false
-  xy: 1, 908
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00002
-  rotate: false
-  xy: 603, 905
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00003
-  rotate: false
-  xy: 1205, 905
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00004
-  rotate: false
-  xy: 1, 456
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00005
-  rotate: false
-  xy: 603, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00006
-  rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00007
-  rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00008
-  rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00009
-  rotate: false
-  xy: 1, 4
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00010
-  rotate: false
-  xy: 603, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00011
-  rotate: false
-  xy: 1205, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00017
-  rotate: false
-  xy: 663, 1357
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-
-transition2.webp
-size: 1911,1664
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-cheer-hand
-  rotate: false
-  xy: 1053, 1102
-  size: 857, 561
-  orig: 857, 561
-  offset: 0, 0
-  index: -1
-foambeer
+drop-1
   rotate: true
-  xy: 1, 603
-  size: 1060, 1050
-  orig: 1254, 1254
-  offset: 103, 114
-  index: -1
-smoke-explode/smoke_00012
-  rotate: true
-  xy: 1, 1
-  size: 600, 450
-  orig: 600, 450
+  xy: 1673, 74
+  size: 15, 31
+  orig: 15, 31
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00013
+drop-2
   rotate: true
-  xy: 453, 1
-  size: 600, 450
-  orig: 600, 450
+  xy: 1626, 43
+  size: 46, 47
+  orig: 46, 47
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00014
-  rotate: true
-  xy: 905, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00015
+drop-3
   rotate: false
-  xy: 1053, 650
-  size: 600, 450
-  orig: 600, 450
+  xy: 1717, 80
+  size: 9, 9
+  orig: 9, 9
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00016
+drop-4
+  rotate: false
+  xy: 1704, 76
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+taco_long
   rotate: true
-  xy: 1357, 48
-  size: 600, 450
-  orig: 600, 450
+  xy: 0, 0
+  size: 259, 1626
+  orig: 350, 1626
+  offset: 38, 0
+  index: -1
+water-1
+  rotate: false
+  xy: 1813, 33
+  size: 127, 226
+  orig: 127, 227
+  offset: 0, 1
+  index: -1
+water-2
+  rotate: true
+  xy: 1626, 89
+  size: 170, 187
+  orig: 170, 187
   offset: 0, 0
   index: -1
