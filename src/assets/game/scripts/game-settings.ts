@@ -1,6 +1,6 @@
-export const GAME_NAME = "PickleballLoveStory";
+export const GAME_NAME = "ShaolinSoccer";
 export const settings = {
-    id: 147,
+    id: 161,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
     tolgeeNamespaces: [GAME_NAME, "cascadingslot"],
