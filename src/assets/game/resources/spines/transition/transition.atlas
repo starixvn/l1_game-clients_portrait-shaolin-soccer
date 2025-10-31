@@ -1,55 +1,200 @@
 
 transition.webp
-size: 1940,259
+size: 1798,1973
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-drop-1
-  rotate: true
-  xy: 1673, 74
-  size: 15, 31
-  orig: 15, 31
-  offset: 0, 0
-  index: -1
-drop-2
-  rotate: true
-  xy: 1626, 43
-  size: 46, 47
-  orig: 46, 47
-  offset: 0, 0
-  index: -1
-drop-3
+shine/shine_00
   rotate: false
-  xy: 1717, 80
-  size: 9, 9
-  orig: 9, 9
+  xy: 0, 1972
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
-drop-4
+shine/shine_01
+  rotate: true
+  xy: 3, 1580
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_02
+  rotate: true
+  xy: 704, 1580
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_03
   rotate: false
-  xy: 1704, 76
-  size: 13, 13
-  orig: 13, 13
+  xy: 1405, 1274
+  size: 393, 699
+  orig: 393, 699
   offset: 0, 0
   index: -1
-taco_long
+shine/shine_04
+  rotate: true
+  xy: 0, 1185
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_05
+  rotate: true
+  xy: 701, 1185
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_06
+  rotate: true
+  xy: 0, 790
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_07
+  rotate: true
+  xy: 701, 790
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_08
+  rotate: false
+  xy: 1402, 573
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_09
+  rotate: true
+  xy: 0, 395
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_10
+  rotate: true
+  xy: 701, 395
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_11
   rotate: true
   xy: 0, 0
-  size: 259, 1626
-  orig: 350, 1626
-  offset: 38, 0
-  index: -1
-water-1
-  rotate: false
-  xy: 1813, 33
-  size: 127, 226
-  orig: 127, 227
-  offset: 0, 1
-  index: -1
-water-2
-  rotate: true
-  xy: 1626, 89
-  size: 170, 187
-  orig: 170, 187
+  size: 393, 699
+  orig: 393, 699
   offset: 0, 0
+  index: -1
+shine/shine_12
+  rotate: true
+  xy: 701, 0
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+
+transition2.webp
+size: 1795,1973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shine/shine_13
+  rotate: true
+  xy: 0, 1580
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_14
+  rotate: true
+  xy: 701, 1580
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_15
+  rotate: false
+  xy: 1402, 1274
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_16
+  rotate: true
+  xy: 0, 1185
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_17
+  rotate: true
+  xy: 701, 1185
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_18
+  rotate: true
+  xy: 0, 790
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_19
+  rotate: true
+  xy: 701, 790
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_20
+  rotate: false
+  xy: 1402, 573
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_21
+  rotate: true
+  xy: 0, 395
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_22
+  rotate: true
+  xy: 701, 395
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+shine/shine_23
+  rotate: true
+  xy: 0, 0
+  size: 393, 699
+  orig: 393, 699
+  offset: 0, 0
+  index: -1
+
+transition3.webp
+size: 1237,833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buddha
+  rotate: false
+  xy: 0, 25
+  size: 696, 808
+  orig: 696, 814
+  offset: 0, 0
+  index: -1
+Buddha_hand
+  rotate: false
+  xy: 698, 0
+  size: 539, 833
+  orig: 547, 840
+  offset: 8, 0
   index: -1
