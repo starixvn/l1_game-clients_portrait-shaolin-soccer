@@ -1,4 +1,4 @@
 window.crossConfig = {
     backgroundLocalized: false,
-    storagePrefixKey: "olympub",
+    storagePrefixKey: "shaolin_soccer",
 };

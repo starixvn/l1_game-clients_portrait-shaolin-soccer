@@ -18,7 +18,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     subDomain: "l2-proxy",
     env: "LOCAL",
     subGuideDomain: "l2-guide",
-    SGConnectSubDomain: "connectsite",
+    SGConnectSubDomain: "l2-connect",
     enableMsgpackParserAllGames: false,
     enableMsgpackParserOnNotification: false,
     websocket: {
@@ -27,7 +27,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     },
     storagePrefixKey: "shaolin_soccer",
     tolgeeUrl: "",
-    subPromotionDomain: "l2-promotion2",
+    subPromotionDomain: "l2-promotion",
     sentry: {
         dsn: "https://9c999f9b51e3b4543cb160b946b5bcbe@sentry-k8s.lumigame.com/30",
         browserUrl: "https://browser.sentry-cdn.com/10.5.0/bundle.min.js",
