@@ -2079,7 +2079,7 @@
     "propertyPath": [
       "_fontSize"
     ],
-    "value": 58
+    "value": 70
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -2089,7 +2089,7 @@
     "propertyPath": [
       "_actualFontSize"
     ],
-    "value": 58
+    "value": 70
   },
   {
     "__type__": "cc.Node",
