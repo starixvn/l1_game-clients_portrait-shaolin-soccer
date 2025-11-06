@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "j+kRzDBO0wTVFf1Z8tMOrEa5GOI",
+	"hash": "MBBBo7eU7HGWkvDGzKfWvBI8PaM",
 	"spine": "3.8.99",
 	"x": -67.5,
 	"y": -67.5,
@@ -11,12 +11,13 @@
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "symbol-1", "parent": "root" }
+	{ "name": "all-null", "parent": "root", "scaleX": 1.164, "scaleY": 1.164 },
+	{ "name": "symbol-1", "parent": "all-null" }
 ],
 "slots": [
 	{ "name": "s1", "bone": "symbol-1", "attachment": "s1" },
 	{ "name": "s1_glow", "bone": "symbol-1", "attachment": "s1_glow", "blend": "additive" },
-	{ "name": "explode/explode_00", "bone": "root", "attachment": "explode/explode_10" }
+	{ "name": "explode/explode_00", "bone": "all-null", "attachment": "explode/explode_10" }
 ],
 "skins": [
 	{

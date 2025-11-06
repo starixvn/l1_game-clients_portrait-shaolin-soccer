@@ -43,7 +43,7 @@
             "height": 27
           },
           "xOffset": 0,
-          "yOffset": 0,
+          "yOffset": 31,
           "xAdvance": 24
         },
         "46": {
@@ -54,10 +54,21 @@
             "height": 23
           },
           "xOffset": 0,
-          "yOffset": 0,
+          "yOffset": 33,
           "xAdvance": 24
         },
         "48": {
+          "rect": {
+            "x": 50,
+            "y": 0,
+            "width": 47,
+            "height": 60
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 48
+        },
+        "49": {
           "rect": {
             "x": 227,
             "y": 61,
@@ -68,7 +79,7 @@
           "yOffset": 0,
           "xAdvance": 29
         },
-        "49": {
+        "50": {
           "rect": {
             "x": 144,
             "y": 60,
@@ -79,7 +90,7 @@
           "yOffset": 0,
           "xAdvance": 44
         },
-        "50": {
+        "51": {
           "rect": {
             "x": 146,
             "y": 0,
@@ -90,7 +101,7 @@
           "yOffset": 0,
           "xAdvance": 41
         },
-        "51": {
+        "52": {
           "rect": {
             "x": 49,
             "y": 61,
@@ -101,7 +112,7 @@
           "yOffset": 0,
           "xAdvance": 49
         },
-        "52": {
+        "53": {
           "rect": {
             "x": 188,
             "y": 0,
@@ -112,7 +123,7 @@
           "yOffset": 0,
           "xAdvance": 43
         },
-        "53": {
+        "54": {
           "rect": {
             "x": 0,
             "y": 61,
@@ -123,7 +134,7 @@
           "yOffset": 0,
           "xAdvance": 49
         },
-        "54": {
+        "55": {
           "rect": {
             "x": 188,
             "y": 61,
@@ -134,7 +145,7 @@
           "yOffset": 0,
           "xAdvance": 39
         },
-        "55": {
+        "56": {
           "rect": {
             "x": 98,
             "y": 60,
@@ -145,23 +156,12 @@
           "yOffset": 0,
           "xAdvance": 46
         },
-        "56": {
+        "57": {
           "rect": {
             "x": 98,
             "y": 0,
             "width": 47,
             "height": 59
-          },
-          "xOffset": 0,
-          "yOffset": 0,
-          "xAdvance": 48
-        },
-        "57": {
-          "rect": {
-            "x": 50,
-            "y": 0,
-            "width": 47,
-            "height": 60
           },
           "xOffset": 0,
           "yOffset": 0,

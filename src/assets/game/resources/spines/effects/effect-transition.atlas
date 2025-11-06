@@ -1,0 +1,33 @@
+
+effect-transition.webp
+size: 1643,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buddha
+  rotate: true
+  xy: 835, 0
+  size: 696, 808
+  orig: 696, 814
+  offset: 0, 0
+  index: -1
+Buddha_hand
+  rotate: true
+  xy: 0, 157
+  size: 539, 833
+  orig: 547, 840
+  offset: 8, 0
+  index: -1
+
+effect-transition2.webp
+size: 1464,1764
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buddha_glow
+  rotate: false
+  xy: 0, 0
+  size: 1464, 1764
+  orig: 1594, 1862
+  offset: 49, 92
+  index: -1

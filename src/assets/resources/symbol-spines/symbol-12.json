@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "06dKwuzUZWJwWvb0rw6tgQ9LFiY",
+	"hash": "Oa7n1ORQ9/6n7qhTUCPddKAeFJ4",
 	"spine": "3.8.99",
 	"x": -70,
 	"y": -75.63,
@@ -11,17 +11,18 @@
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "bg_circle", "parent": "root" },
-	{ "name": "soccer", "parent": "root" },
+	{ "name": "all-null", "parent": "root", "scaleX": 1.164, "scaleY": 1.164 },
+	{ "name": "bg_circle", "parent": "all-null" },
+	{ "name": "soccer", "parent": "all-null" },
 	{ "name": "rotate", "parent": "soccer", "x": 1.48, "y": -0.56 },
-	{ "name": "circle_particle", "parent": "root" },
-	{ "name": "sparkle", "parent": "root", "x": 56.16, "y": 46.79 },
-	{ "name": "sparkle2", "parent": "root", "x": 56.16, "y": 46.79 },
-	{ "name": "sparkle3", "parent": "root", "x": 56.16, "y": 46.79 },
-	{ "name": "sparkle4", "parent": "root", "x": 56.16, "y": 46.79 },
-	{ "name": "sparkle5", "parent": "root", "x": 56.16, "y": 46.79 },
-	{ "name": "sparkle6", "parent": "root", "x": 56.16, "y": 46.79 },
-	{ "name": "sparkle7", "parent": "root", "x": 56.16, "y": 46.79 }
+	{ "name": "circle_particle", "parent": "all-null" },
+	{ "name": "sparkle", "parent": "all-null", "x": 56.16, "y": 46.79 },
+	{ "name": "sparkle2", "parent": "all-null", "x": 56.16, "y": 46.79 },
+	{ "name": "sparkle3", "parent": "all-null", "x": 56.16, "y": 46.79 },
+	{ "name": "sparkle4", "parent": "all-null", "x": 56.16, "y": 46.79 },
+	{ "name": "sparkle5", "parent": "all-null", "x": 56.16, "y": 46.79 },
+	{ "name": "sparkle6", "parent": "all-null", "x": 56.16, "y": 46.79 },
+	{ "name": "sparkle7", "parent": "all-null", "x": 56.16, "y": 46.79 }
 ],
 "slots": [
 	{ "name": "s12", "bone": "bg_circle", "attachment": "s12" },

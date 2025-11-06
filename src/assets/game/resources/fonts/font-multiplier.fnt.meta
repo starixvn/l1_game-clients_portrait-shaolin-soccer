@@ -59,6 +59,17 @@
         },
         "48": {
           "rect": {
+            "x": 0,
+            "y": 43,
+            "width": 39,
+            "height": 42
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 40
+        },
+        "49": {
+          "rect": {
             "x": 42,
             "y": 0,
             "width": 27,
@@ -68,7 +79,7 @@
           "yOffset": 0,
           "xAdvance": 28
         },
-        "49": {
+        "50": {
           "rect": {
             "x": 0,
             "y": 0,
@@ -79,7 +90,7 @@
           "yOffset": 0,
           "xAdvance": 42
         },
-        "50": {
+        "51": {
           "rect": {
             "x": 73,
             "y": 177,
@@ -90,7 +101,7 @@
           "yOffset": 0,
           "xAdvance": 33
         },
-        "51": {
+        "52": {
           "rect": {
             "x": 0,
             "y": 86,
@@ -101,7 +112,7 @@
           "yOffset": 0,
           "xAdvance": 40
         },
-        "52": {
+        "53": {
           "rect": {
             "x": 39,
             "y": 131,
@@ -112,7 +123,7 @@
           "yOffset": 0,
           "xAdvance": 35
         },
-        "53": {
+        "54": {
           "rect": {
             "x": 40,
             "y": 43,
@@ -123,7 +134,7 @@
           "yOffset": 0,
           "xAdvance": 34
         },
-        "54": {
+        "55": {
           "rect": {
             "x": 38,
             "y": 179,
@@ -134,7 +145,7 @@
           "yOffset": 0,
           "xAdvance": 35
         },
-        "55": {
+        "56": {
           "rect": {
             "x": 0,
             "y": 179,
@@ -145,7 +156,7 @@
           "yOffset": 0,
           "xAdvance": 38
         },
-        "56": {
+        "57": {
           "rect": {
             "x": 0,
             "y": 131,
@@ -156,17 +167,6 @@
           "yOffset": 0,
           "xAdvance": 39
         },
-        "57": {
-          "rect": {
-            "x": 0,
-            "y": 43,
-            "width": 39,
-            "height": 42
-          },
-          "xOffset": 0,
-          "yOffset": 0,
-          "xAdvance": 40
-        },
         "120": {
           "rect": {
             "x": 0,
@@ -175,7 +175,7 @@
             "height": 23
           },
           "xOffset": 0,
-          "yOffset": 3,
+          "yOffset": 10,
           "xAdvance": 26
         }
       },
