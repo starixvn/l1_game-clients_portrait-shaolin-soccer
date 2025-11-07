@@ -31,6 +31,7 @@ export const languages = {
         "bet_option_odd": "Ganjil",
         "bet_slip": "Slip Taruhan",
         "bet_type": "Jenis Taruhan",
+        "big_wins": "Kemenangan Besar",
         "button_change": "Mengubah",
         "button_confirm": "Konfirmasi",
         "cancel_bet": "(Batalkan Taruhan)",
@@ -92,7 +93,7 @@ export const languages = {
         "live_stats": "Statistik Langsung",
         "lock_bet": "Tunggu hasil",
         "Loss": "Kalah",
-        "losses": "Kerugian",
+        "losses": "Ronde Kalah",
         "maintenance_time": "WAKTU PEMELIHARAAN",
         "manual": "Manual",
         "max": "Maks",
@@ -194,6 +195,7 @@ export const languages = {
         "not_enough_money": "Akun Anda memiliki dana yang tidak mencukupi.",
         "notice": "ULASAN",
         "number_of_bet": "Jumlah Taruhan",
+        "num_of_auto_play": "Jumlah Auto-Play:",
         "odds": "Odds",
         "odd_win": "GANJIL MENANG",
         "ok": "OKE",
@@ -236,7 +238,7 @@ export const languages = {
         "pf_settings_para_1": "Hasil akhir ditentukan oleh kombinasi Server Seed dan Seed Klien dari lima pemain taruhan pertama pada putaran tersebut.",
         "pf_settings_para_2": "Pemain dapat mengubah nilai Seed Klien dan memeriksa kewajaran hasil permainan dari riwayat Taruhan.",
         "pf_title_new_client_seed": "SEED KLIEN BARU",
-        "pf_title_provably_fair": "Terbukti Adil",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "PENGATURAN YANG TERBUKTI ADIL",
         "pf_title_verification": "Verifikasi",
         "pf_verification_para_1": "Hasil Akhir",
@@ -288,7 +290,7 @@ export const languages = {
         "title_multiplier": "Pengali",
         "to": "ke",
         "tooltip_auto": "Otomatis",
-        "tooltip_double": "Gandakan Taruhan Sebelumnya",
+        "tooltip_double": "DOUBLE",
         "tooltip_fairness": "adil",
         "tooltip_guide": "Panduan Permainan",
         "tooltip_hot-key": "Tombol Pintas",
@@ -300,6 +302,7 @@ export const languages = {
         "total_stake": "Total Taruhan",
         "total_stake_shorten": "Total\nTaruhan",
         "total_win": "Total Menang",
+        "turn_based_pf_settings_para_1": "Hasil akhir ditentukan oleh kombinasi Server Seed dan Client Seed.",
         "under_maintenance_suggest": "Silakan login kembali untuk melanjutkan permainan setelah maintenance selesai.",
         "under_maintenance_time": "Mulai dari %{startTime} hingga %{endTime} (GMT+8)",
         "waggred": "Waggred",
@@ -307,7 +310,7 @@ export const languages = {
         "waiting_for_the_next_round": "Menunggu putaran berikutnya",
         "win": "Menang",
         "win_loss": "Menang Kalah",
-        "wins": "MENANG",
+        "wins": "Kemenangan Putaran",
         "you_reach_max_win": "Anda mencapai Maksimal Menang"
     },
     "cascadingslot": {
@@ -394,7 +397,10 @@ export const languages = {
         "you_have_won": "Anda Telah Menang",
         "you_win_free_spin": "Anda menang"
     },
-    "ShaolinSoccer": {},
+    "ShaolinSoccer": {
+        "game_icon_name": "Shaolin Soccer",
+        "game_name": "Shaolin Soccer"
+    },
     "FreeSpinBonus": {
         "bet_level": "Level Taruhan",
         "Claim_promotion_message": "Kinerja Luar Biasa!",

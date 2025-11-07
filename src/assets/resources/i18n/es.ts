@@ -31,6 +31,7 @@ export const languages = {
         "bet_option_odd": "Impar",
         "bet_slip": "Boleto de Apuestas",
         "bet_type": "Tipo de Apuesta",
+        "big_wins": "Gana la Grande",
         "button_change": "Cambiar",
         "button_confirm": "Confirmar",
         "cancel_bet": "(Cancelar Apuesta)",
@@ -92,7 +93,7 @@ export const languages = {
         "live_stats": "Estadísticas en vivo",
         "lock_bet": "Esperando resultado",
         "Loss": "Pérdida",
-        "losses": "Pérdidas",
+        "losses": "Rondas perdidas",
         "maintenance_time": "Tiempo de mantenimiento",
         "manual": "Manual",
         "max": "Máx.",
@@ -194,6 +195,7 @@ export const languages = {
         "not_enough_money": "Saldo insuficiente en tu cuenta.",
         "notice": "Aviso",
         "number_of_bet": "Número de Apuestas",
+        "num_of_auto_play": "Número de giros automáticos:",
         "odds": "Cuotas",
         "odd_win": "Ganancias Impares",
         "ok": "Aceptar",
@@ -236,7 +238,7 @@ export const languages = {
         "pf_settings_para_1": "El resultado final se determina mediante una combinación de la Semilla del Servidor y la Semilla del Cliente de los cinco primeros jugadores que apostaron en la ronda.",
         "pf_settings_para_2": "Puedes modificar la Semilla del Cliente y verificar la equidad del resultado de tu partida en el historial de apuestas.",
         "pf_title_new_client_seed": "Nueva Semilla del Cliente",
-        "pf_title_provably_fair": "Demostrablemente Justo",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "AJUSTES DE JUEGO JUSTO COMPROBABLE",
         "pf_title_verification": "Verificación",
         "pf_verification_para_1": "Resultado Final",
@@ -288,7 +290,7 @@ export const languages = {
         "title_multiplier": "Multiplicador",
         "to": "para",
         "tooltip_auto": "Automático",
-        "tooltip_double": "Doblar la apuesta anterior",
+        "tooltip_double": "Doble",
         "tooltip_fairness": "Equidad",
         "tooltip_guide": "Guías de Juego",
         "tooltip_hot-key": "Teclas de acceso rápido",
@@ -300,6 +302,7 @@ export const languages = {
         "total_stake": "Apuesta Total",
         "total_stake_shorten": "Apuesta Total",
         "total_win": "Ganancia Total",
+        "turn_based_pf_settings_para_1": "El resultado final se determina por una combinación de la Semilla del Servidor y la Semilla del Cliente.",
         "under_maintenance_suggest": "Por favor, vuelva a iniciar sesión para continuar jugando una vez finalizado el mantenimiento.",
         "under_maintenance_time": "A partir de %{startTime} hasta %{endTime} (GMT+8)",
         "waggred": "Waggred",
@@ -307,7 +310,7 @@ export const languages = {
         "waiting_for_the_next_round": "Esperando la siguiente ronda",
         "win": "Ganar",
         "win_loss": "Ganancia/Pérdida",
-        "wins": "Ganancias",
+        "wins": "Victorias de la ronda",
         "you_reach_max_win": "Has alcanzado la ganancia máxima."
     },
     "cascadingslot": {
@@ -394,7 +397,10 @@ export const languages = {
         "you_have_won": "Has Ganado",
         "you_win_free_spin": "Ganaste"
     },
-    "ShaolinSoccer": {},
+    "ShaolinSoccer": {
+        "game_icon_name": "Shaolin Soccer",
+        "game_name": "Shaolin Soccer"
+    },
     "FreeSpinBonus": {
         "bet_level": "Nivel de Apuesta",
         "Claim_promotion_message": "¡Gran rendimiento!",

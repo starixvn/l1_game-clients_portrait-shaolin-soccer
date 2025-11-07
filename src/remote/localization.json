@@ -1,24 +1,22 @@
 {
     "lobbyNames": {
         "en": "Shaolin Soccer",
-        "th": "Shaolin Soccer",
         "id": "Shaolin Soccer",
-        "vi": "Shaolin Soccer",
-        "zh_cn": "Shaolin Soccer",
-        "zh_tw": "Shaolin Soccer",
-        "ja": "Shaolin Soccer",
-        "es": "Shaolin Soccer",
-        "tr": "Shaolin Soccer"
+        "th": "เกมนักเตะเส้าหลิน",
+        "vi": "Đội Bóng\nThiếu Lâm",
+        "zh_cn": "少林足球",
+        "zh_tw": "少林足球",
+        "ja": "シャオリン\nサッカー",
+        "es": "Shaolin Soccer"
     },
     "gameNames": {
-        "en": "ShaolinSoccer",
-        "th": "ShaolinSoccer",
-        "id": "ShaolinSoccer",
-        "vi": "ShaolinSoccer",
-        "zh_cn": "ShaolinSoccer",
-        "zh_tw": "ShaolinSoccer",
-        "ja": "ShaolinSoccer",
-        "es": "ShaolinSoccer",
-        "tr": "ShaolinSoccer"
+        "en": "Shaolin Soccer",
+        "id": "Shaolin Soccer",
+        "th": "เกมนักเตะเส้าหลิน",
+        "vi": "Đội Bóng Thiếu Lâm",
+        "zh_cn": "少林足球",
+        "zh_tw": "少林足球",
+        "ja": "シャオリン・サッカー",
+        "es": "Shaolin Soccer"
     }
 }

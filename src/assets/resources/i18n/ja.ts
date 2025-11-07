@@ -31,6 +31,7 @@ export const languages = {
         "bet_option_odd": "奇数",
         "bet_slip": "ベットスリップ",
         "bet_type": "ベットタイプ",
+        "big_wins": "大が勝ち",
         "button_change": "変更",
         "button_confirm": "確認",
         "cancel_bet": "（ベットをキャンセル）",
@@ -92,7 +93,7 @@ export const languages = {
         "live_stats": "ライブ統計",
         "lock_bet": "結果を待つ",
         "Loss": "敗北",
-        "losses": "損失",
+        "losses": "ラウンド損失",
         "maintenance_time": "メンテナンス時間",
         "manual": "手動",
         "max": "最大値",
@@ -194,6 +195,7 @@ export const languages = {
         "not_enough_money": "口座残高が不足しています。",
         "notice": "お知らせ",
         "number_of_bet": "ベット数",
+        "num_of_auto_play": "オートプレイ回数:",
         "odds": "オッズ",
         "odd_win": "奇数勝ち",
         "ok": "OK",
@@ -236,7 +238,7 @@ export const languages = {
         "pf_settings_para_1": "最終結果は、サーバーシードとラウンド最初の5人のプレイヤーのクライアントシードの組み合わせによって決定されます。",
         "pf_settings_para_2": "プレイヤーはクライアントシード値を変更し、ベット履歴からゲーム結果の公平性を確認できます。",
         "pf_title_new_client_seed": "新規クライアントシード",
-        "pf_title_provably_fair": "プロバブリーフェア",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "プロバブリーフェア設定",
         "pf_title_verification": "認証",
         "pf_verification_para_1": "最終結果",
@@ -288,7 +290,7 @@ export const languages = {
         "title_multiplier": "マルチプライヤー",
         "to": "へ",
         "tooltip_auto": "自動",
-        "tooltip_double": "前のベットを倍にする",
+        "tooltip_double": "ダブル",
         "tooltip_fairness": "公平性",
         "tooltip_guide": "ゲームガイド",
         "tooltip_hot-key": "ホットキー",
@@ -300,6 +302,7 @@ export const languages = {
         "total_stake": "合計ベット",
         "total_stake_shorten": "合計ベット",
         "total_win": "合計勝利",
+        "turn_based_pf_settings_para_1": "最終結果は、サーバーシードとクライアントシードの組み合わせによって決定されます。",
         "under_maintenance_suggest": "メンテナンス終了後、お手数ですが再度ログインしてゲームをお楽しみください。",
         "under_maintenance_time": "%{startTime}から%{endTime}（GMT+8）まで",
         "waggred": "Waggred",
@@ -307,7 +310,7 @@ export const languages = {
         "waiting_for_the_next_round": "次のラウンドをお待ちください",
         "win": "勝利",
         "win_loss": "損益",
-        "wins": "配当",
+        "wins": "ラウンド勝利",
         "you_reach_max_win": "最大勝利額に達しました"
     },
     "cascadingslot": {
@@ -394,7 +397,10 @@ export const languages = {
         "you_have_won": "当たりです",
         "you_win_free_spin": "当たり"
     },
-    "ShaolinSoccer": {},
+    "ShaolinSoccer": {
+        "game_icon_name": "シャオリン\nサッカー",
+        "game_name": "シャオリン・サッカー"
+    },
     "FreeSpinBonus": {
         "bet_level": "ベットレベル",
         "Claim_promotion_message": "素晴らしいパフォーマンスです！",

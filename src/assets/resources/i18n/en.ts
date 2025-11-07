@@ -31,6 +31,7 @@ export const languages = {
         "bet_option_odd": "Odd",
         "bet_slip": "Bet Slip",
         "bet_type": "Bet Type",
+        "big_wins": "Big Wins",
         "button_change": "Change",
         "button_confirm": "Confirm",
         "cancel_bet": "(Cancel Bet)",
@@ -92,7 +93,7 @@ export const languages = {
         "live_stats": "Live Stats",
         "lock_bet": "Waiting for the result",
         "Loss": "Loss",
-        "losses": "Losses",
+        "losses": "Round Losses",
         "maintenance_time": "Maintenance time",
         "manual": "Manual",
         "max": "Max",
@@ -194,6 +195,7 @@ export const languages = {
         "not_enough_money": "Your account has insufficient funds.",
         "notice": "notice",
         "number_of_bet": "Number of Bets",
+        "num_of_auto_play": "Number of Auto-Play",
         "odds": "Odds",
         "odd_win": "ODD WINS",
         "ok": "OK",
@@ -300,6 +302,7 @@ export const languages = {
         "total_stake": "Total Stake",
         "total_stake_shorten": "Total Stake",
         "total_win": "Total Win",
+        "turn_based_pf_settings_para_1": "The final result is determined by a combination of the Server Seed and the Client Seed.",
         "under_maintenance_suggest": "Please kindly re-login to continue playing games after the maintenance is complete.",
         "under_maintenance_time": "Starting from %{startTime} to %{endTime} (GMT+8)",
         "waggred": "Waggred",
@@ -307,7 +310,7 @@ export const languages = {
         "waiting_for_the_next_round": "Showing result",
         "win": "Win",
         "win_loss": "Win Loss",
-        "wins": "Wins",
+        "wins": "Round Wins",
         "you_reach_max_win": "You reached the max win"
     },
     "cascadingslot": {
@@ -395,8 +398,8 @@ export const languages = {
         "you_win_free_spin": "You win"
     },
     "ShaolinSoccer": {
-        "game_name": "Shaolin Soccer",
-        "game_icon_name": "Shaolin Soccer"
+        "game_icon_name": "Shaolin Soccer",
+        "game_name": "Shaolin Soccer"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
