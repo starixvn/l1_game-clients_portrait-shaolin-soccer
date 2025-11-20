@@ -758,7 +758,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 65,
+      "x": 66.75,
       "y": 0,
       "z": 0
     },
@@ -771,8 +771,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.95,
+      "y": 0.95,
       "z": 1
     },
     "_mobility": 0,
@@ -950,7 +950,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 130,
+      "x": 148.5,
       "y": 0,
       "z": 0
     },
@@ -2493,7 +2493,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 294,
+      "x": 332.5,
       "y": 0,
       "z": 0
     },
@@ -2725,7 +2725,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 355,
+      "x": 607.5,
       "y": 0,
       "z": 0
     },
@@ -3321,7 +3321,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 504,
+      "width": 542.5,
       "height": 110
     },
     "_anchorPoint": {
@@ -3355,11 +3355,11 @@
       "height": 40
     },
     "_startAxis": 0,
-    "_paddingLeft": 0,
+    "_paddingLeft": 5,
     "_paddingRight": 0,
     "_paddingTop": 0,
     "_paddingBottom": 0,
-    "_spacingX": 0,
+    "_spacingX": 20,
     "_spacingY": 0,
     "_verticalDirection": 1,
     "_horizontalDirection": 0,
@@ -3615,7 +3615,7 @@
     "scatterLabel": {
       "__id__": 22
     },
-    "padding": 10,
+    "padding": 20,
     "_id": ""
   },
   {

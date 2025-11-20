@@ -52,7 +52,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 87,
+      "y": 0,
       "z": 0
     },
     "_lrot": {
@@ -673,7 +673,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 272
+      "height": 283
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -722,7 +722,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": true,
+    "_isTrimmedMode": false,
     "_useGrayscale": false,
     "_atlas": {
       "__uuid__": "cab245b3-fac5-4aa6-bb02-f370c663806f",

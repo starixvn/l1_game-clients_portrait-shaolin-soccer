@@ -2436,11 +2436,11 @@
       "__id__": 72
     },
     "prfPreviewSymbolLeft": {
-      "__uuid__": "f2df499c-bda5-48ef-9eb7-adb5d2748990",
+      "__uuid__": "8f479a79-d1e7-447b-9c69-19d76e36bfb3",
       "__expectedType__": "cc.Prefab"
     },
     "prfPreviewSymbolRight": {
-      "__uuid__": "33f00e35-a12c-4c24-9f6d-e4802279ea94",
+      "__uuid__": "a550d11c-1f04-499c-a59b-f4ad91f6f889",
       "__expectedType__": "cc.Prefab"
     },
     "_id": "cct9UFpMxB8pzffvUuQKhf"
