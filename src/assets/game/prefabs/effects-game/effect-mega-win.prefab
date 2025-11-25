@@ -371,7 +371,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -110,
-      "y": 80,
+      "y": 110,
       "z": 0
     },
     "_lrot": {
@@ -540,8 +540,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 982.5,
-      "height": 1747.5
+      "width": 924.7058823529412,
+      "height": 1644.7058823529412
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
