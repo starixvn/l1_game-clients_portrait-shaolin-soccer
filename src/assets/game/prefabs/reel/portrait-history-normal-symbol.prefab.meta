@@ -2,12 +2,12 @@
   "ver": "1.1.50",
   "importer": "prefab",
   "imported": true,
-  "uuid": "aa88b9dd-81fc-4287-961b-5f74bf5aee2f",
+  "uuid": "8c0aaad3-3643-4dcc-8707-2dda1dc3e29a",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "portrait-multiplier"
+    "syncNodeName": "portrait-history-normal-symbol"
   }
 }
