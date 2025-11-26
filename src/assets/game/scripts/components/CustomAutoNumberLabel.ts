@@ -7,15 +7,15 @@ export class CustomAutoNumberLabel extends Component {
     targetLabel: Label = null;
 
     @property
-    normalFontSize: number = 52;
+    normalFontSize = 52;
 
     @property
-    shrinkFontSize: number = 40;
+    shrinkFontSize = 40;
 
     @property
-    shrinkThreshold: number = 1000;
+    shrinkThreshold = 1000;
 
-    private lastString: string = '';
+    private lastString = '';
 
     start() {
         if (this.targetLabel) {
