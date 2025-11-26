@@ -1,502 +1,502 @@
 
 effect.webp
-size: 1969,1603
+size: 1952,1635
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Result_freespins
   rotate: true
-  xy: 591, 670
+  xy: 496, 1128
   size: 507, 113
   orig: 509, 114
   offset: 1, 1
   index: -1
 backwall
-  rotate: true
-  xy: 1217, 29
+  rotate: false
+  xy: 1322, 10
   size: 104, 228
   orig: 104, 228
   offset: 0, 0
   index: -1
 bg_patch
   rotate: true
-  xy: 1281, 369
+  xy: 237, 862
   size: 167, 149
   orig: 180, 163
   offset: 5, 7
   index: -1
 big_win_body
   rotate: true
-  xy: 1496, 1226
+  xy: 1140, 240
   size: 285, 242
   orig: 285, 242
   offset: 0, 0
   index: -1
 big_win_eye_lf
   rotate: true
-  xy: 1217, 139
+  xy: 645, 1125
   size: 32, 15
   orig: 32, 15
   offset: 0, 0
   index: -1
 big_win_eye_rt
   rotate: true
-  xy: 1955, 855
+  xy: 796, 1133
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 big_win_eyebrown_lf
   rotate: false
-  xy: 975, 23
+  xy: 829, 1136
   size: 33, 21
   orig: 33, 21
   offset: 0, 0
   index: -1
 big_win_eyebrown_rt
-  rotate: false
-  xy: 424, 650
+  rotate: true
+  xy: 812, 1134
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 big_win_head
-  rotate: false
-  xy: 1427, 185
+  rotate: true
+  xy: 1282, 997
   size: 186, 176
   orig: 186, 176
   offset: 0, 0
   index: -1
 big_win_money_lf
-  rotate: true
-  xy: 1844, 138
+  rotate: false
+  xy: 1282, 897
   size: 174, 98
   orig: 175, 99
   offset: 1, 1
   index: -1
 big_win_money_rt
   rotate: false
-  xy: 1615, 199
+  xy: 1235, 1185
   size: 227, 113
   orig: 227, 114
   offset: 0, 0
   index: -1
 big_win_mouth
   rotate: false
-  xy: 1779, 71
+  xy: 1460, 1070
   size: 100, 65
   orig: 100, 65
   offset: 0, 0
   index: -1
 big_win_trophy
   rotate: true
-  xy: 1428, 560
+  xy: 622, 7
   size: 219, 255
   orig: 223, 258
   offset: 2, 2
   index: -1
 coinA
   rotate: false
-  xy: 1044, 1099
+  xy: 1504, 243
   size: 63, 58
   orig: 70, 70
   offset: 1, 6
   index: -1
 coin_rotate/coin_rote_00
   rotate: false
-  xy: 1044, 1099
+  xy: 1504, 243
   size: 63, 58
   orig: 70, 70
   offset: 1, 6
   index: -1
 coinB
   rotate: false
-  xy: 658, 610
+  xy: 329, 1049
   size: 46, 58
   orig: 70, 70
   offset: 9, 6
   index: -1
 coin_rotate/coin_rote_02
   rotate: false
-  xy: 658, 610
+  xy: 329, 1049
   size: 46, 58
   orig: 70, 70
   offset: 9, 6
   index: -1
 coinC
   rotate: true
-  xy: 1044, 1010
+  xy: 662, 1131
   size: 26, 58
   orig: 70, 70
   offset: 20, 6
   index: -1
 coin_rotate/coin_rote_03
   rotate: true
-  xy: 1044, 1010
+  xy: 662, 1131
   size: 26, 58
   orig: 70, 70
   offset: 20, 6
   index: -1
 coinD
   rotate: true
-  xy: 0, 7
+  xy: 715, 434
   size: 46, 58
   orig: 70, 70
   offset: 15, 6
   index: -1
 coin_rotate/coin_rote_04
   rotate: true
-  xy: 0, 7
+  xy: 715, 434
   size: 46, 58
   orig: 70, 70
   offset: 15, 6
   index: -1
 coinE
   rotate: false
-  xy: 1044, 1038
+  xy: 1444, 242
   size: 58, 59
   orig: 70, 70
   offset: 8, 6
   index: -1
 coin_rotate/coin_rote_05
   rotate: false
-  xy: 1044, 1038
+  xy: 1444, 242
   size: 58, 59
   orig: 70, 70
   offset: 8, 6
   index: -1
 coin_rotate/coin_rote_01
-  rotate: false
-  xy: 1698, 960
+  rotate: true
+  xy: 1384, 241
   size: 60, 58
   orig: 70, 70
   offset: 2, 6
   index: -1
 fan
-  rotate: false
-  xy: 631, 1223
+  rotate: true
+  xy: 611, 1159
   size: 476, 380
   orig: 476, 380
   offset: 0, 0
   index: -1
 floor
-  rotate: false
-  xy: 1109, 1513
+  rotate: true
+  xy: 237, 1031
   size: 604, 90
   orig: 604, 90
   offset: 0, 0
   index: -1
 freespins
   rotate: true
-  xy: 1042, 579
+  xy: 613, 431
   size: 429, 100
   orig: 429, 100
   offset: 0, 0
   index: -1
 light_large
-  rotate: true
-  xy: 1109, 1230
-  size: 281, 385
+  rotate: false
+  xy: 715, 482
+  size: 293, 398
   orig: 297, 408
-  offset: 1, 2
+  offset: 0, 0
   index: -1
 light_small
   rotate: true
-  xy: 0, 55
-  size: 343, 237
+  xy: 1010, 527
+  size: 356, 243
   orig: 358, 243
-  offset: 2, 1
+  offset: 0, 0
   index: -1
 mega_win_body
   rotate: false
-  xy: 1144, 538
+  xy: 338, 4
   size: 282, 221
   orig: 282, 221
   offset: 0, 0
   index: -1
 mega_win_eye_lf
   rotate: true
-  xy: 449, 292
+  xy: 813, 443
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 mega_win_eye_rt
   rotate: false
-  xy: 1615, 329
+  xy: 611, 1125
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 mega_win_eyebrown_lf
   rotate: false
-  xy: 631, 1185
+  xy: 848, 444
   size: 58, 36
   orig: 58, 36
   offset: 0, 0
   index: -1
 mega_win_eyebrown_rt
-  rotate: false
-  xy: 994, 551
+  rotate: true
+  xy: 775, 441
   size: 39, 36
   orig: 39, 36
   offset: 0, 0
   index: -1
 mega_win_head
   rotate: false
-  xy: 1447, 24
+  xy: 1783, 894
   size: 161, 159
   orig: 161, 159
   offset: 0, 0
   index: -1
 mega_win_money
   rotate: true
-  xy: 237, 535
+  xy: 0, 214
   size: 642, 185
   orig: 642, 185
   offset: 0, 0
   index: -1
 mega_win_mouth
-  rotate: true
-  xy: 1955, 881
+  rotate: false
+  xy: 329, 1109
   size: 57, 14
   orig: 57, 14
   offset: 0, 0
   index: -1
 mega_win_trophy
   rotate: true
-  xy: 1698, 719
+  xy: 879, 7
   size: 219, 255
   orig: 223, 258
   offset: 2, 2
   index: -1
 number_bg
   rotate: true
-  xy: 424, 667
+  xy: 329, 1125
   size: 510, 165
   orig: 517, 173
   offset: 3, 4
   index: -1
 particle/particle_00
-  rotate: false
-  xy: 993, 173
+  rotate: true
+  xy: 941, 234
   size: 246, 197
   orig: 340, 277
   offset: 46, 58
   index: -1
 particle/particle_19
-  rotate: false
-  xy: 993, 173
+  rotate: true
+  xy: 941, 234
   size: 246, 197
   orig: 340, 277
   offset: 46, 58
   index: -1
 particle/particle_01
-  rotate: false
-  xy: 239, 0
+  rotate: true
+  xy: 1384, 303
   size: 245, 196
   orig: 340, 277
   offset: 46, 59
   index: -1
 particle/particle_02
   rotate: false
-  xy: 1432, 363
+  xy: 1673, 692
   size: 243, 195
   orig: 340, 277
   offset: 47, 59
   index: -1
 particle/particle_03
   rotate: false
-  xy: 1677, 314
+  xy: 1673, 496
   size: 242, 194
   orig: 340, 277
   offset: 47, 60
   index: -1
 particle/particle_04
-  rotate: false
-  xy: 994, 372
+  rotate: true
+  xy: 1116, 886
   size: 285, 164
   orig: 340, 277
   offset: 4, 60
   index: -1
 particle/particle_05
-  rotate: true
-  xy: 486, 1
+  rotate: false
+  xy: 1624, 1471
   size: 328, 164
   orig: 340, 277
   offset: 7, 61
   index: -1
 particle/particle_06
   rotate: false
-  xy: 1443, 1020
+  xy: 1624, 1265
   size: 323, 204
   orig: 340, 277
   offset: 9, 60
   index: -1
 particle/particle_07
   rotate: false
-  xy: 652, 8
+  xy: 1460, 889
   size: 321, 164
   orig: 340, 277
   offset: 9, 60
   index: -1
 particle/particle_08
-  rotate: true
-  xy: 1768, 940
+  rotate: false
+  xy: 613, 228
   size: 326, 201
   orig: 340, 277
   offset: 9, 60
   index: -1
 particle/particle_09
   rotate: false
-  xy: 1109, 1024
+  xy: 1582, 283
   size: 332, 204
   orig: 340, 277
   offset: 3, 60
   index: -1
 particle/particle_10
   rotate: false
-  xy: 658, 174
+  xy: 1428, 35
   size: 333, 204
   orig: 340, 277
   offset: 2, 61
   index: -1
 particle/particle_11
-  rotate: false
-  xy: 706, 799
+  rotate: true
+  xy: 1413, 1301
   size: 334, 209
   orig: 340, 277
   offset: 1, 56
   index: -1
 particle/particle_12
   rotate: false
-  xy: 706, 589
+  xy: 1611, 1055
   size: 334, 208
   orig: 340, 277
   offset: 1, 57
   index: -1
 particle/particle_13
   rotate: false
-  xy: 706, 1010
+  xy: 0, 1
   size: 336, 211
   orig: 340, 277
   offset: 0, 55
   index: -1
 particle/particle_14
   rotate: true
-  xy: 1740, 1268
+  xy: 993, 1300
   size: 335, 208
   orig: 340, 277
   offset: 0, 58
   index: -1
 particle/particle_15
   rotate: true
-  xy: 239, 198
+  xy: 1203, 1300
   size: 335, 208
   orig: 340, 277
   offset: 0, 58
   index: -1
 particle/particle_16
   rotate: true
-  xy: 449, 331
+  xy: 1255, 550
   size: 334, 207
   orig: 340, 277
   offset: 1, 58
   index: -1
 particle/particle_17
-  rotate: false
-  xy: 658, 380
+  rotate: true
+  xy: 1464, 553
   size: 334, 207
   orig: 340, 277
   offset: 1, 58
   index: -1
 particle/particle_18
-  rotate: false
-  xy: 1685, 510
+  rotate: true
+  xy: 668, 882
   size: 247, 207
   orig: 340, 277
   offset: 46, 58
   index: -1
 sparkle
   rotate: true
-  xy: 1044, 1159
+  xy: 1582, 489
   size: 62, 63
   orig: 67, 67
   offset: 2, 2
   index: -1
 super_eye_close_lf
-  rotate: true
-  xy: 1950, 1570
+  rotate: false
+  xy: 329, 1032
   size: 33, 15
   orig: 33, 15
   offset: 0, 0
   index: -1
 super_eye_close_rt
-  rotate: false
-  xy: 1104, 1010
+  rotate: true
+  xy: 747, 1132
   size: 25, 12
   orig: 25, 12
   offset: 0, 0
   index: -1
 super_win_body
   rotate: false
-  xy: 1144, 761
+  xy: 388, 862
   size: 278, 261
   orig: 278, 261
   offset: 0, 0
   index: -1
 super_win_eyes_lf
-  rotate: true
-  xy: 1740, 1233
+  rotate: false
+  xy: 761, 1133
   size: 33, 24
   orig: 33, 24
   offset: 0, 0
   index: -1
 super_win_eyes_rt
   rotate: true
-  xy: 1715, 1577
+  xy: 722, 1131
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
 super_win_head
-  rotate: true
-  xy: 1615, 52
+  rotate: false
+  xy: 1464, 1137
   size: 145, 162
   orig: 145, 162
   offset: 0, 0
   index: -1
 super_win_money
   rotate: true
-  xy: 0, 400
+  xy: 0, 858
   size: 777, 235
   orig: 787, 259
   offset: 5, 19
   index: -1
 super_win_trophy
-  rotate: true
-  xy: 1424, 781
+  rotate: false
+  xy: 877, 885
   size: 237, 272
   orig: 238, 274
   offset: 0, 1
   index: -1
 temple
-  rotate: false
-  xy: 0, 1179
+  rotate: true
+  xy: 187, 227
   size: 629, 424
   orig: 629, 424
   offset: 0, 0
   index: -1
 trophy_light-1
   rotate: false
-  xy: 1241, 135
+  xy: 1136, 0
   size: 184, 232
   orig: 186, 242
   offset: 0, 1
   index: -1
 trophy_light-2
   rotate: false
-  xy: 975, 46
+  xy: 993, 1173
   size: 240, 125
   orig: 246, 129
   offset: 2, 1

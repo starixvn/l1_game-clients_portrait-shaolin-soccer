@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "f4TrTXx+Xgt8QrveggejWdmDp0Q",
+	"hash": "DLVf+RUOgIJkXt0S4m4gUl2cY1s",
 	"spine": "3.8.99",
 	"x": -584.73,
 	"y": -310.28,
@@ -100,8 +100,8 @@
 	{ "name": "bone_coin79", "parent": "coins_bone", "x": -32.98, "y": 477.65 },
 	{ "name": "bone_coin80", "parent": "coins_bone", "x": -8.56, "y": 491.85 },
 	{ "name": "coins_path", "parent": "image" },
-	{ "name": "text-number", "parent": "all-null", "rotation": 90, "y": -94.91 },
-	{ "name": "text-totalwin", "parent": "all-null", "rotation": 90, "y": -11.52 }
+	{ "name": "text-number", "parent": "all-null", "y": -94.91 },
+	{ "name": "text-totalwin", "parent": "all-null", "y": -11.52 }
 ],
 "slots": [
 	{ "name": "backwall", "bone": "image", "attachment": "backwall" },
